@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97f4949b-4532-44b5-aead-19d659e7323e" name="Changes" comment="Added: abstract metode makeSound()">
+    <list default="true" id="97f4949b-4532-44b5-aead-19d659e7323e" name="Changes" comment="Added: .idea/ to .gitignore">
       <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -36,11 +41,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "new-Feature-Eat",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -52,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699876005703</updated>
-      <workItem from="1699876006770" duration="734000" />
+      <workItem from="1699876006770" duration="1658000" />
     </task>
     <task id="LOCAL-00001" summary="Added: initial commit + abstract class Animal">
       <option name="closed" value="true" />
@@ -86,17 +92,49 @@
       <option name="project" value="LOCAL" />
       <updated>1699876639925</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added: .idea/ to .gitignore">
+      <option name="closed" value="true" />
+      <created>1699877232268</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699877232268</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added: initial commit + abstract class Animal" />
     <MESSAGE value="Added: class Dog" />
     <MESSAGE value="Added: class Cat" />
     <MESSAGE value="Added: abstract metode makeSound()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added: abstract metode makeSound()" />
+    <MESSAGE value="Added: .idea/ to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added: .idea/ to .gitignore" />
   </component>
 </project>

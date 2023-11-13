@@ -8,4 +8,9 @@ public class Dog extends Animal {
     public String makeSound(){
         return "*bark*";
     }
+
+    @Override
+    public boolean eat(String foodType){
+        return true;
+    }
 }
