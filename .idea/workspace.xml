@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="97f4949b-4532-44b5-aead-19d659e7323e" name="Changes" comment="Added: initial commit + abstract class Animal">
-      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
+    <list default="true" id="97f4949b-4532-44b5-aead-19d659e7323e" name="Changes" comment="Added: abstract metode makeSound()">
+      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699876005703</updated>
-      <workItem from="1699876006770" duration="392000" />
+      <workItem from="1699876006770" duration="734000" />
     </task>
     <task id="LOCAL-00001" summary="Added: initial commit + abstract class Animal">
       <option name="closed" value="true" />
@@ -59,7 +62,31 @@
       <option name="project" value="LOCAL" />
       <updated>1699876316067</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added: class Dog">
+      <option name="closed" value="true" />
+      <created>1699876470697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699876470697</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added: class Cat">
+      <option name="closed" value="true" />
+      <created>1699876524097</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699876524097</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added: abstract metode makeSound()">
+      <option name="closed" value="true" />
+      <created>1699876639925</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699876639925</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,6 +94,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added: initial commit + abstract class Animal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added: initial commit + abstract class Animal" />
+    <MESSAGE value="Added: class Dog" />
+    <MESSAGE value="Added: class Cat" />
+    <MESSAGE value="Added: abstract metode makeSound()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added: abstract metode makeSound()" />
   </component>
 </project>
