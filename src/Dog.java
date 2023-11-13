@@ -13,4 +13,13 @@ public class Dog extends Animal {
     public boolean eat(String foodType){
         return true;
     }
+
+    @Override
+    public String showMood(boolean mood){
+        if (mood){
+            return "*logrer*";
+
+        }else
+            return "*knurrer*";
+    }
 }

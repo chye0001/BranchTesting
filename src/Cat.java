@@ -13,4 +13,13 @@ public class Cat extends Animal{
     public boolean eat(String foodType){
         return true;
     }
+
+    @Override
+    public String showMood(boolean mood){
+        if (mood){
+            return "*spinder*";
+
+        } else
+            return "*hvæser*";
+    }
 }
